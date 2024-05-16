@@ -4,7 +4,7 @@ Welcome to the Camper Cafe Menu project, a sample project created as part of
 the FreeCodeCamp Responsive Web Design Professional Certification.! This project showcases a simple 
 cafe menu design implemented using HTML and CSS.
 
-![Cafe Menu](/images/cafemenu.png)
+![Cafe Menu](cafemenu.png)
 
 ## Table of Contents
 1. [Introduction](#introduction)
